@@ -1,2 +1,2 @@
-# Project-Pong
-First game 2020
+# Project-Pong-2020
+First game with pygame
